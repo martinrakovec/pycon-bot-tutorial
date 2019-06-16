@@ -26,7 +26,7 @@ async def on_issue_opened(
 
 if __name__ == "__main__":
     run_app(
-        name='PyCon-Bot-by-martinrakovec',
+        name='py2019-bot-tutor-rakm',
         version='1.0.0',
         url='https://github.com/apps/py2019-gitbot-tutorial-rakm',
     )
